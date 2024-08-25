@@ -1,1 +1,1 @@
-# pig_game_python
+# pig_game
