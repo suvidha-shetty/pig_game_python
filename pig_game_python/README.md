@@ -6,6 +6,7 @@ The Pig game is likely called "Pig" because of the behavior it encourages—bein
 
 Rules:
 
+No of players > 1.
 Roll the die. If you roll a 2-6, add the number to your turn total. If you roll a 1, your turn ends, and you lose your turn total.
 After each roll, decide whether to roll again or "hold." Holding adds your turn total to your overall score and ends your turn.
 The first player to reach the target score wins.
